@@ -1,8 +1,11 @@
-/* Code by Giovanni Gentile
-*  25 Ottobre 2016
-*  www. projectg.it
-*  www.0lab.it
-*/
+/***********************
+ PIX Matrix Animations
+ October 2016
+ Giovanni Gentile
+ http://www.projectg.it
+ http://www.0lab.it
+ Creative Common License
+************************/
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_NeoMatrix.h>
